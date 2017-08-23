@@ -1,0 +1,24 @@
+Fri Aug 11 12:43:23 EDT 2017
+Generated automatically by RunMe.sh
+
+Current date/time: Fri Aug 11 12:43:23 2017
+
+CPU frequency:    3.540 GHz
+Number of CPUs: 1
+Number of cores: 1
+Number of threads: 1
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15055
+Leading dimension of array                  : 15055
+Number of trials to run                     : 4    
+Data alignment value (in Kbytes)            : 1    
+
+Maximum memory requested that can be used=1813526324, at the size=15055
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+Done: Fri Aug 11 12:44:23 EDT 2017

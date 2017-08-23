@@ -1,0 +1,5 @@
+##The LINPACK will stop either when run_time is finished OR when certain passes are done.
+run_time_in_m=1
+
+how_many_passes=4
+
