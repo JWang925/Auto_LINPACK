@@ -1,22 +1,22 @@
-Fri Jul  6 10:57:06 EDT 2018
+Thu Jul 19 18:50:18 EDT 2018
 Generated automatically by RunMe.sh
 
-Current date/time: Fri Jul  6 10:57:06 2018
+Current date/time: Thu Jul 19 18:50:18 2018
 
-CPU frequency:    1.489 GHz
+CPU frequency:    3.110 GHz
 Number of CPUs: 2
-Number of cores: 12
-Number of threads: 12
+Number of cores: 16
+Number of threads: 16
 
 Parameters are set to:
 
 Number of tests: 1
-Number of equations to solve (problem size) : 203690
-Leading dimension of array                  : 203690
+Number of equations to solve (problem size) : 116958
+Leading dimension of array                  : 116958
 Number of trials to run                     : 4    
 Data alignment value (in Kbytes)            : 1    
 
-Maximum memory requested that can be used=331921003624, at the size=203690
+Maximum memory requested that can be used=109435730296, at the size=116958
 
 =================== Timing linear equation system solver ===================
 

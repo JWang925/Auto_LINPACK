@@ -49,26 +49,17 @@ numacmd=
 
 echo "run time in minutes: $run_time_in_m"
 
-<<<<<<< HEAD
 run_time_in_s=$((run_time_in_m * 60));
-=======
-run_time_in_s=$(($run_time_in_m*60));
->>>>>>> 4713dbd777346a5966eea195944280f4b00a5e5f
+
 
 echo "run time in seconds: $run_time_in_s"
 
 arch=xeon64
-<<<<<<< HEAD
 chmod 777 xlinpack_$arch
-=======
->>>>>>> 4713dbd777346a5966eea195944280f4b00a5e5f
 {
   date
   timeout $run_time_in_s $numacmd ./xlinpack_$arch input.dat
   echo -n "Done: "
   date
-<<<<<<< HEAD
 } | tee LastResult.txt
-=======
-} | tee lin_$arch.txt
->>>>>>> 4713dbd777346a5966eea195944280f4b00a5e5f
+
