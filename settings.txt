@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ##The LINPACK will stop either when run_time is finished OR when certain amount listed below of passes are done.
 run_time_in_m=9999
 how_many_passes=4
+=======
+##The LINPACK will stop either when run_time is finished OR when certain passes are done.
+run_time_in_m=1
+
+how_many_passes=4
+
+>>>>>>> 4713dbd777346a5966eea195944280f4b00a5e5f
