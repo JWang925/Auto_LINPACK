@@ -3,4 +3,5 @@ A bash script that automatically generate the LINPACK config file and run the LI
 
 To Run: 
 modify setting.txt
+
 run ./RunMe.sh
