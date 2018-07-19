@@ -1,0 +1,7 @@
+Intel(R) Optimized LINPACK Benchmark data file: input.dat
+Generated automatically by RunMe.sh
+1             # number of tests
+203690 # problem sizes
+203690 # leading dimensions
+4      # times to run a test
+1 # alignment values (in KBytes)
